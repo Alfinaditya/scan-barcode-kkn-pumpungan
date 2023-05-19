@@ -19,5 +19,12 @@
     "title": "Mangga",
     "benefits": ["Kejang", "Bronkitis", "sakau"],
     "howToUse": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum quasi possimus architecto libero exercitationem? Facilis nesciunt suscipit nemo magni mollitia?"
+  },
+  {
+    "slug": "dondong",
+    "mainImage": "/images/main-image-tomat.png",
+    "title": "Dondong",
+    "benefits": ["Kejang", "Bronkitis", "sakau"],
+    "howToUse": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum quasi possimus architecto libero exercitationem? Facilis nesciunt suscipit nemo magni mollitia?"
   }
 ]
