@@ -5,5 +5,12 @@
     "title": "Tomat",
     "benefits": ["Kejang", "Bronkitis", "sakau"],
     "howToUse": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum quasi possimus architecto libero exercitationem? Facilis nesciunt suscipit nemo magni mollitia?"
+  },
+  {
+    "slug": "jambu",
+    "mainImage": "/images/main-image-tomat.png",
+    "title": "Jambu",
+    "benefits": ["Kejang", "Bronkitis", "sakau"],
+    "howToUse": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum quasi possimus architecto libero exercitationem? Facilis nesciunt suscipit nemo magni mollitia?"
   }
 ]
