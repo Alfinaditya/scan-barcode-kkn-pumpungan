@@ -14,11 +14,11 @@ const Tanaman = () => {
       <img
         style={{ margin: 'auto', display: 'flex' }}
         src={tanaman.mainImage}
-        width={'100%'}
-        height={250}
+        width={500}
+        height={300}
       />
       <div>
-        <h1>Manfaat</h1>
+        <h1>Manfaat :</h1>
 
         {tanaman.benefits.map((benefit, i) => (
           <div key={crypto.randomUUID()}>
@@ -27,8 +27,12 @@ const Tanaman = () => {
         ))}
       </div>
 
-      <h1>Cara Mengolah</h1>
-      <p>{tanaman.howToUse}</p>
+      <h1>Cara Mengolah :</h1>
+      {tanaman.howToUse.map((howToUse, i) => (
+          <div key={crypto.randomUUID()}>
+            {i + 1}. {howToUse}
+          </div>
+        ))}
     </div>
   );
 };
