@@ -9,7 +9,7 @@ const Tanaman = () => {
   );
 
   return (
-    <div style={{ width: '95%', margin: 'auto' }}>
+    <div style={{ width: '80%', margin: 'auto' }}>
       <h1 style={{ textAlign: 'center' }}>{tanaman.title}</h1>
       <img
         style={{ margin: 'auto', display: 'flex' }}
