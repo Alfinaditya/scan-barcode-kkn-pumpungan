@@ -30,7 +30,7 @@
     "mainImage": "/images/buah_jambubiji.webp",
     "title": "Jambu Biji",
     "benefits": [
-      "Sumber Vitamin C : Jambu biji mengandung vitamin C yang tinggi, yang penting untuk meningkatkan sistem kekebalan tubuh, melindungi sel-sel dari kerusakan oksidatif, dan membantu dalam penyembuhan luka.",
+      "<b>Sumber Vitamin C </b>: <br> Jambu biji mengandung vitamin C yang tinggi, yang penting untuk meningkatkan sistem kekebalan tubuh, melindungi sel-sel dari kerusakan oksidatif, dan membantu dalam penyembuhan luka.",
       "Serat Pencernaan : Jambu biji kaya akan serat makanan, yang membantu menjaga kesehatan pencernaan, mencegah sembelit, dan meningkatkan pergerakan usus.",
       "Antioksidan : Buah jambu biji mengandung antioksidan seperti likopen dan vitamin C, yang dapat melindungi tubuh dari kerusakan akibat radikal bebas dan mencegah penyakit kronis.",
       "Menjaga Kesehatan Mata : Kandungan vitamin A dalam jambu biji dapat mendukung kesehatan mata dan mencegah masalah penglihatan, seperti degenerasi makula.",
@@ -38,7 +38,7 @@
     ],
 
     "howToUse": [
-      "Mengonsumsi Langsung : Jambu biji dapat langsung dimakan mentah sebagai camilan yang segar. Cuci jambu biji dengan baik, potong menjadi dua bagian, dan nikmati isinya dengan sendok.",
+      "Mengonsumsi Langsung : <br> Jambu biji dapat langsung dimakan mentah sebagai camilan yang segar. Cuci jambu biji dengan baik, potong menjadi dua bagian, dan nikmati isinya dengan sendok.",
       "Salad Buah : Jambu biji dapat ditambahkan dalam salad buah sebagai bahan yang segar dan menyehatkan. Potong jambu biji menjadi potongan-potongan kecil dan campur dengan buah-buahan lain sesuai selera, seperti jeruk, apel, atau pir.",
       "Jus Jambu Biji: Jambu biji juga bisa diolah menjadi jus yang menyegarkan. Cuci jambu biji dan buang bijinya, kemudian blender jambu biji dengan sedikit air. Anda juga dapat menambahkan perasan jeruk atau madu sesuai selera.",
       "Selai Jambu Biji: Jambu biji bisa diolah menjadi selai yang lezat. Rebus jambu biji yang sudah dipotong-potong dengan sedikit air dan gula hingga empuk dan menjadi kental. Blender atau haluskan hingga menjadi selai yang halus."
@@ -375,7 +375,9 @@
       "Bumbu Masakan : Keji beling dapat ditambahkan sebagai bumbu dalam masakan, terutama dalam sup, tumisan, atau hidangan sayuran."
     ],
 
-    "howToTreat": ["Tanaman keji beling tidak membutuhkan perawatan atau penyiraman khusus, karena biasanya tumbuh subur di lingkungan yang lembab. Namun, jika Anda ingin mengendalikan pertumbuhan tanaman keji beling dengan mencabutnya, pastikan untuk menyiram tanah sekitarnya agar lebih mudah mencabutnya dengan akar."]
+    "howToTreat": [
+      "Tanaman keji beling tidak membutuhkan perawatan atau penyiraman khusus, karena biasanya tumbuh subur di lingkungan yang lembab. Namun, jika Anda ingin mengendalikan pertumbuhan tanaman keji beling dengan mencabutnya, pastikan untuk menyiram tanah sekitarnya agar lebih mudah mencabutnya dengan akar."
+    ]
   },
   {
     "slug": "pandanwangi",
@@ -395,11 +397,12 @@
     ],
 
     "howToTreat": [
-      "Penyiraman : Pandan wangi membutuhkan penyiraman yang cukup, tetapi jangan sampai tergenang air. Siram tanaman secara teratur, terutama saat tanah terasa kering. Pastikan tanah tetap lembab, tetapi tidak terlalu basah. Jaga agar tidak ada genangan air di bawah pot atau wadah tanaman.", 
-      "Pemupukan : Berikan pupuk yang kaya akan nutrisi secara teratur. Gunakan pupuk organik atau pupuk cair yang mengandung nitrogen, fosfor, dan kalium. Pemupukan dapat dilakukan setiap 2-3 bulan sekali atau sesuai dengan petunjuk pada kemasan pupuk. Pemupukan membantu memastikan tanaman mendapatkan nutrisi yang cukup untuk pertumbuhan dan perkembangan yang optimal.", 
-      "Penyediaan Sinar Matahari : Pandan wangi membutuhkan sinar matahari yang cukup. Letakkan tanaman di tempat yang mendapatkan sinar matahari langsung setidaknya beberapa jam sehari. Namun, tanaman ini juga bisa tumbuh di tempat yang terkena sinar matahari parsial atau naungan sebagian.", 
-      "Pemangkasan : Lakukan pemangkasan secara teratur untuk menjaga bentuk tanaman dan merangsang pertumbuhan baru. Pemangkasan juga membantu mengontrol ukuran tanaman agar tetap kompak. Potong cabang atau daun yang mati atau rusak untuk menjaga kebersihan dan kesehatan tanaman.", 
-      "Perbanyakan : Jika Anda ingin memperbanyak tanaman pandan wangi, Anda dapat melakukannya melalui stek daun atau pemisahan rimpang. Carilah informasi lebih lanjut mengenai teknik perbanyakan pandan wangi sebelum mencobanya."]
+      "Penyiraman : Pandan wangi membutuhkan penyiraman yang cukup, tetapi jangan sampai tergenang air. Siram tanaman secara teratur, terutama saat tanah terasa kering. Pastikan tanah tetap lembab, tetapi tidak terlalu basah. Jaga agar tidak ada genangan air di bawah pot atau wadah tanaman.",
+      "Pemupukan : Berikan pupuk yang kaya akan nutrisi secara teratur. Gunakan pupuk organik atau pupuk cair yang mengandung nitrogen, fosfor, dan kalium. Pemupukan dapat dilakukan setiap 2-3 bulan sekali atau sesuai dengan petunjuk pada kemasan pupuk. Pemupukan membantu memastikan tanaman mendapatkan nutrisi yang cukup untuk pertumbuhan dan perkembangan yang optimal.",
+      "Penyediaan Sinar Matahari : Pandan wangi membutuhkan sinar matahari yang cukup. Letakkan tanaman di tempat yang mendapatkan sinar matahari langsung setidaknya beberapa jam sehari. Namun, tanaman ini juga bisa tumbuh di tempat yang terkena sinar matahari parsial atau naungan sebagian.",
+      "Pemangkasan : Lakukan pemangkasan secara teratur untuk menjaga bentuk tanaman dan merangsang pertumbuhan baru. Pemangkasan juga membantu mengontrol ukuran tanaman agar tetap kompak. Potong cabang atau daun yang mati atau rusak untuk menjaga kebersihan dan kesehatan tanaman.",
+      "Perbanyakan : Jika Anda ingin memperbanyak tanaman pandan wangi, Anda dapat melakukannya melalui stek daun atau pemisahan rimpang. Carilah informasi lebih lanjut mengenai teknik perbanyakan pandan wangi sebelum mencobanya."
+    ]
   },
   {
     "slug": "pecutkuda",
@@ -418,7 +421,9 @@
       "Rebusan Daun Pecut Kuda : Siapkan 60 gram daun yang dipotong-potong. Kemudian rebus dalam tiga gelas air, masak sampai air rebusannya tersisa satu gelas. Setelah dingin, saring buang daunnya, dan minum air rebusan daun pecut kuda."
     ],
 
-    "howToTreat": ["Tanaman pecut kuda tidak membutuhkan perawatan atau penyiraman khusus, karena biasanya tumbuh subur di lingkungan yang lembab. Namun, jika Anda ingin mengendalikan pertumbuhan tanaman ini dengan mencabutnya, pastikan untuk menyiram tanah sekitarnya agar lebih mudah mencabutnya dengan akar."]
+    "howToTreat": [
+      "Tanaman pecut kuda tidak membutuhkan perawatan atau penyiraman khusus, karena biasanya tumbuh subur di lingkungan yang lembab. Namun, jika Anda ingin mengendalikan pertumbuhan tanaman ini dengan mencabutnya, pastikan untuk menyiram tanah sekitarnya agar lebih mudah mencabutnya dengan akar."
+    ]
   },
   {
     "slug": "sirih",
@@ -438,10 +443,11 @@
     ],
 
     "howToTreat": [
-      "Penyiraman : Sirih membutuhkan penyiraman yang cukup untuk menjaga kelembapan tanah. Siram tanaman secara teratur, terutama saat musim kemarau atau saat tanah terasa kering. Pastikan tanah di sekitar tanaman tetap lembab, tetapi hindari genangan air yang berlebihan.", 
-      "Pencahayaan : Tempatkan tanaman sirih di lokasi yang mendapatkan sinar matahari terang secara parsial hingga penuh. Sirih tumbuh dengan baik di bawah sinar matahari langsung, tetapi juga bisa tumbuh dengan baik di tempat yang sedikit teduh.", 
-      "Pemupukan : Berikan pupuk yang mengandung nutrisi yang seimbang kepada tanaman sirih. Pemupukan dapat dilakukan sekitar setiap 2-3 bulan atau sesuai petunjuk pada kemasan pupuk. Pilih pupuk organik atau pupuk buatan yang cocok untuk tanaman sirih.", 
-      "Perlindungan Dari Hama dan Penyakit : Periksa tanaman secara teratur untuk mendeteksi tanda-tanda serangan hama atau penyakit. Jika Anda menemukan hama atau penyakit, gunakan pestisida yang sesuai atau metode pengendalian organik untuk mengatasinya. Pastikan untuk menjaga kebersihan di sekitar tanaman dan buang daun atau bagian tanaman yang terinfeksi."]
+      "Penyiraman : Sirih membutuhkan penyiraman yang cukup untuk menjaga kelembapan tanah. Siram tanaman secara teratur, terutama saat musim kemarau atau saat tanah terasa kering. Pastikan tanah di sekitar tanaman tetap lembab, tetapi hindari genangan air yang berlebihan.",
+      "Pencahayaan : Tempatkan tanaman sirih di lokasi yang mendapatkan sinar matahari terang secara parsial hingga penuh. Sirih tumbuh dengan baik di bawah sinar matahari langsung, tetapi juga bisa tumbuh dengan baik di tempat yang sedikit teduh.",
+      "Pemupukan : Berikan pupuk yang mengandung nutrisi yang seimbang kepada tanaman sirih. Pemupukan dapat dilakukan sekitar setiap 2-3 bulan atau sesuai petunjuk pada kemasan pupuk. Pilih pupuk organik atau pupuk buatan yang cocok untuk tanaman sirih.",
+      "Perlindungan Dari Hama dan Penyakit : Periksa tanaman secara teratur untuk mendeteksi tanda-tanda serangan hama atau penyakit. Jika Anda menemukan hama atau penyakit, gunakan pestisida yang sesuai atau metode pengendalian organik untuk mengatasinya. Pastikan untuk menjaga kebersihan di sekitar tanaman dan buang daun atau bagian tanaman yang terinfeksi."
+    ]
   },
   {
     "slug": "sirihmerah",
@@ -460,9 +466,9 @@
     ],
 
     "howToTreat": [
-      "Penyiraman : Sirih merah membutuhkan penyiraman yang cukup untuk menjaga kelembapan tanah. Siram tanaman secara teratur, terutama saat musim kemarau atau saat tanah terasa kering. Pastikan tanah di sekitar tanaman tetap lembab, tetapi hindari genangan air yang berlebihan.", 
-      "Pencahayaan : Tempatkan tanaman sirih merah di lokasi yang mendapatkan sinar matahari terang secara parsial hingga penuh. Sirih merah tumbuh dengan baik di bawah sinar matahari langsung, tetapi juga bisa tumbuh dengan baik di tempat yang sedikit teduh.", 
-      "Pemupukan : Berikan pupuk yang mengandung nutrisi yang seimbang kepada tanaman sirih merah. Pemupukan dapat dilakukan sekitar setiap 2-3 bulan atau sesuai petunjuk pada kemasan pupuk. Pilih pupuk organik atau pupuk buatan yang cocok untuk tanaman sirih merah.", 
+      "Penyiraman : Sirih merah membutuhkan penyiraman yang cukup untuk menjaga kelembapan tanah. Siram tanaman secara teratur, terutama saat musim kemarau atau saat tanah terasa kering. Pastikan tanah di sekitar tanaman tetap lembab, tetapi hindari genangan air yang berlebihan.",
+      "Pencahayaan : Tempatkan tanaman sirih merah di lokasi yang mendapatkan sinar matahari terang secara parsial hingga penuh. Sirih merah tumbuh dengan baik di bawah sinar matahari langsung, tetapi juga bisa tumbuh dengan baik di tempat yang sedikit teduh.",
+      "Pemupukan : Berikan pupuk yang mengandung nutrisi yang seimbang kepada tanaman sirih merah. Pemupukan dapat dilakukan sekitar setiap 2-3 bulan atau sesuai petunjuk pada kemasan pupuk. Pilih pupuk organik atau pupuk buatan yang cocok untuk tanaman sirih merah.",
       "Perlindungan Dari Hama dan Penyakit : Periksa tanaman secara teratur untuk mendeteksi tanda-tanda serangan hama atau penyakit. Jika Anda menemukan hama atau penyakit, gunakan pestisida yang sesuai atau metode pengendalian organik untuk mengatasinya. Pastikan untuk menjaga kebersihan di sekitar tanaman dan buang daun atau bagian tanaman yang terinfeksi."
     ]
   },
@@ -484,8 +490,9 @@
     ],
 
     "howToTreat": [
-      "Perawatan bunga Zodia pun terbilang sederhana, kita hanya perlu menjaga agar tanaman ini tidak kering. Sehingga bunga Zodia ini dapat dilakukan penyiraman 1 sampai 2 kali dalam sehari. Penyiramannya pun tidak sampai pot menggenang, hanya sampai air meresap kedasar por sehingga bunga Zodia terbebas dari kekeringan.", 
-      "Hal lain yang harus diperhatikan adalah sinar matahari. Karena bunga Zodia ini sangat menyukai sinar matahari, kita dapat meletakkan di tempat yang memiliki sinar matahri yang cukup dan udara yang baik."]
+      "Perawatan bunga Zodia pun terbilang sederhana, kita hanya perlu menjaga agar tanaman ini tidak kering. Sehingga bunga Zodia ini dapat dilakukan penyiraman 1 sampai 2 kali dalam sehari. Penyiramannya pun tidak sampai pot menggenang, hanya sampai air meresap kedasar por sehingga bunga Zodia terbebas dari kekeringan.",
+      "Hal lain yang harus diperhatikan adalah sinar matahari. Karena bunga Zodia ini sangat menyukai sinar matahari, kita dapat meletakkan di tempat yang memiliki sinar matahri yang cukup dan udara yang baik."
+    ]
   },
   {
     "slug": "aglaonema",
