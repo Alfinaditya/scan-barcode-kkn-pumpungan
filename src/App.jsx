@@ -1,7 +1,8 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import Tanaman from './Tanaman';
-import GenBarcode from './GenBarcode';
+import { Suspense, lazy } from 'react';
+const GenBarcode = lazy(() => import('./GenBarcode'));
 
 function App() {
   return (
@@ -10,7 +11,14 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/tanaman/:slug" element={<Tanaman />} />
-          <Route path="/gen-barcode" element={<GenBarcode />} />
+          <Route
+            path="/gen-barcode"
+            element={
+              <Suspense fallback={<span>Loading...</span>}>
+                <GenBarcode />
+              </Suspense>
+            }
+          />
         </Routes>
       </BrowserRouter>
     </>

@@ -3,13 +3,12 @@ import listDataTanaman from '../data.json';
 import QRCode from 'react-qr-code';
 
 const GenBarcode = () => {
-  console.log(window.location.host);
   return (
     <>
-      <div style={{ display: 'flex' }}>
+      <div style={{ display: 'flex', flexWrap: 'wrap', width: '100%' }}>
         {listDataTanaman.map((tanaman) => (
-          <div style={{ marginRight: 15 }} key={crypto.randomUUID()}>
-            <h1 style={{ textAlign: 'center' }}>{tanaman.title}</h1>
+          <div style={{ marginRight: 40 }} key={crypto.randomUUID()}>
+            <h1 style={{ textAlign: 'center', width: 250 }}>{tanaman.title}</h1>
             <QRCode
               size={230}
               value={`${window.location.host}/${tanaman.slug}`}
