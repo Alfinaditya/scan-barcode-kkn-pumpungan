@@ -33,7 +33,15 @@ const Tanaman = () => {
             {i + 1}. {howToUse}
           </div>
         ))}
+      
+      <h1>Cara Merawat :</h1>
+      {tanaman.howToTreat.map((howToTreat, i) => (
+          <div key={crypto.randomUUID()}>
+            {i + 1}. {howToTreat}
+          </div>
+        ))}
     </div>
+    
   );
 };
 
