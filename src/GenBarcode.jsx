@@ -3,7 +3,6 @@ import listDataTanaman from '../data.json';
 import QRCode from 'react-qr-code';
 
 const GenBarcode = () => {
-  console.log(window.location.host);
   return (
     <>
       <div style={{ display: 'flex', flexWrap: 'wrap', width: '100%' }}>
