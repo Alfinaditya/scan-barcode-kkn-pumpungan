@@ -700,99 +700,116 @@
       "<b>Pemangkasan </b><br> Lakukan pemangkasan teratur untuk menjaga bentuk dan merangsang pertumbuhan tunas baru. Pemangkasan juga dapat membantu menjaga ukuran tanaman agar tetap sesuai dengan ruang yang tersedia."]
   },
   {
-    "slug": "",
-    "mainImage": "/images/.webp",
-    "title": "",
+    "slug": "sansivera",
+    "mainImage": "/images/sansivera.webp",
+    "title": "Sansivera",
     "benefits": [
-      "", 
-      "", 
-      "", 
-      ""],
+      "<b>Penyaring Udara </b><br>  Tanaman sansevieria memiliki kemampuan untuk membersihkan dan menyaring udara dari polutan seperti formaldehida, benzene, dan trichloroethylene. Ini membuatnya menjadi tanaman yang baik untuk meningkatkan kualitas udara di dalam ruangan.", 
+      "<b>Meningkatkan Kelembaban </b><br>  Sansevieria mengeluarkan uap air ke udara melalui daunnya, sehingga dapat meningkatkan kelembaban di sekitarnya. Ini bermanfaat terutama di lingkungan dengan udara kering.", 
+      "<b>Mengurangi Risiko Alergi </b><br>  Tanaman ini dapat membantu mengurangi risiko alergi dengan menyerap partikel debu dan alergen dari udara.", 
+      "<b>Efek Menenangkan </b><br>  Tanaman sansevieria dikenal memiliki efek menenangkan dan dapat membantu mengurangi stres serta meningkatkan kualitas tidur."],
 
-    "howToUse": [
-      "", 
-      "", 
-      "", 
-      "", 
-      ""],
+    "howToUse": [],
 
     "howToTreat": [
-      "", 
-      "", 
-      "", 
-      "", 
-      ""]
+      "<b>Pencahayaan </b><br>  Sansevieria dapat tumbuh baik dalam kondisi cahaya rendah hingga sedang. Tempatkan tanaman di tempat yang mendapatkan sinar matahari yang terang namun tidak langsung.", 
+      "<b>Penyiraman </b><br>  Sansevieria adalah tanaman yang tahan kekeringan dan lebih suka tanah yang kering daripada terlalu basah. Sirami tanaman hanya ketika tanah sudah benar-benar kering. Pastikan untuk tidak menyiramnya terlalu sering agar akar tidak membusuk.", 
+      "<b>Tanah dan Drainase </b><br>  Gunakan campuran tanah yang baik, seperti campuran tanah pot dan pasir, yang memiliki drainase yang baik. Pastikan pot memiliki lubang drainase di bagian bawah.", 
+      "<b>Suhu </b><br>  Sansevieria tumbuh baik pada suhu kamar yang nyaman, sekitar 18-24°C. Hindari suhu yang terlalu dingin atau terlalu panas.", 
+      "<b>Pemupukan </b><br>  Pemupukan sansevieria dilakukan secara jarang, sekitar setiap 2-3 bulan. Gunakan pupuk yang dirancang khusus untuk tanaman hias daun hijau. Pastikan untuk mengikuti petunjuk pada kemasan untuk dosis yang tepat."]
+  },
+  {
+    "slug": "singkong",
+    "mainImage": "/images/singkong.webp",
+    "title": "Singkong",
+    "benefits": [
+      "<b>Sumber Energi </b><br>  Singkong kaya akan karbohidrat kompleks, yang merupakan sumber energi yang baik untuk tubuh.", 
+      "<b>Serat Pangan </b><br>  Singkong mengandung serat pangan yang membantu menjaga pencernaan yang sehat dan mencegah sembelit.", 
+      "<b>Zat Gizi </b><br>  Singkong mengandung vitamin dan mineral seperti vitamin C, vitamin B6, folat, zat besi, magnesium, dan kalium yang penting untuk menjaga kesehatan tubuh.", 
+      "<b>Antioksidan </b><br>  Singkong mengandung senyawa antioksidan seperti beta-karoten dan vitamin C, yang membantu melindungi sel-sel tubuh dari kerusakan akibat radikal bebas.",
+      "<b>Sumber Karotenoid </b><br>  Singkong mengandung karotenoid, seperti beta-karoten, yang penting untuk kesehatan mata dan menjaga kualitas kulit."],
+
+    "howToUse": [
+      "<b>Direbus </b><br>  Singkong dapat direbus hingga empuk dan digunakan sebagai bahan utama dalam berbagai hidangan seperti sup, sayuran tumis, atau sayur lodeh.", 
+      "<b>Digoreng </b><br>  Singkong juga bisa digoreng menjadi keripik singkong yang renyah dan dapat dijadikan camilan.", 
+      "<b>Dikukus </b><br>  Singkong dapat dikukus hingga empuk dan digunakan sebagai bahan dalam makanan seperti kue, onde-onde, atau makanan tradisional yang menggunakan singkong sebagai bahan utama.",  
+      "<b>Diolah menjadi tepung </b><br>  Singkong dapat diolah menjadi tepung singkong yang serbaguna dan digunakan dalam berbagai kue, roti, atau makanan lainnya."],
+
+    "howToTreat": [
+      "<b>Penanaman </b><br>  Tanam singkong di tempat yang terbuka dengan sinar matahari yang cukup. Pilih tanah yang gembur, subur, dan memiliki drainase yang baik.", 
+      "<b>Penyiraman </b><br>  Singkong membutuhkan penyiraman yang cukup, terutama pada saat tanaman masih muda. Pastikan tanah tetap lembab, tetapi tidak tergenang air.", 
+      "<b>Pemupukan </b><br>  Berikan pupuk organik atau pupuk yang kaya akan nitrogen, fosfor, dan kalium secara teratur untuk mendorong pertumbuhan dan perkembangan umbi.", 
+      "<b>Pembersihan Gulma </b><br>  Jaga area sekitar tanaman tetap bersih dari gulma yang dapat bersaing dengan tanaman singkong untuk mendapatkan nutrisi.", 
+      "<b>Perlindungan dari Hama dan Penyakit </b><br>  Periksa tanaman secara teratur untuk tanda-tanda hama atau penyakit. Jika ditemukan, gunakan metode pengendalian hama organik atau obat yang direkomendasikan untuk mengatasinya."]
+  },
+  {
+    "slug": "tabebuya",
+    "mainImage": "/images/tabebuya.webp",
+    "title": "Tabebuya",
+    "benefits": [
+      "<b>Estetika Lanskap </b><br>  Tabebuya digunakan secara luas dalam penanaman lanskap untuk keindahan dan dekorasi. Bunga-bunga yang mencolok memberikan tampilan yang menarik di taman dan pekarangan.", 
+      "<b>Penyaring Udara </b><br>  Seperti tanaman lainnya, tabebuya membantu menyaring dan membersihkan udara dari polutan dan partikel-partikel kecil, sehingga meningkatkan kualitas udara di sekitarnya.", 
+      "<b>Tumbuhan Penghasil Kayu </b><br>  Beberapa spesies tabebuya menghasilkan kayu yang kuat dan awet, yang digunakan dalam konstruksi, perabotan, dan kerajinan kayu."],
+
+    "howToUse": [],
+
+    "howToTreat": [
+      "<b>Penempatan </b><br>  Pilih lokasi yang mendapatkan sinar matahari penuh untuk tabebuya. Tanaman ini tumbuh dengan baik dalam cahaya yang terang dan sinar matahari langsung.", 
+      "<b>Tanah </b><br>  Tabebuya tumbuh baik dalam tanah yang subur dan memiliki drainase yang baik. Pastikan tanah tidak tergenang air agar akar tidak membusuk.", 
+      "<b>Penyiraman </b><br>  Tabebuya dapat bertahan dalam kondisi kekeringan, tetapi penyiraman yang teratur diperlukan saat tanaman masih muda atau selama musim kemarau yang panjang. Sirami tanaman secara menyeluruh, tetapi hindari kelebihan air yang dapat menyebabkan akar membusuk.", 
+      "<b>Pemupukan </b><br>  Berikan pupuk organik atau pupuk khusus untuk tanaman berbunga dengan dosis yang direkomendasikan. Pemupukan biasanya dilakukan pada awal musim semi dan musim panas untuk memberikan nutrisi tambahan yang dibutuhkan.",
+      "<b>Pemangkasan </b><br>  Pemangkasan tabebuya diperlukan untuk menjaga bentuk dan mempromosikan pertumbuhan yang sehat. Pemangkasan dilakukan setelah masa berbunga untuk membuang bunga yang layu atau cabang yang mati",
+      "<b>Perlindungan dari Suhu Ekstrem </b><br>  Tabebuya umumnya toleran terhadap suhu ekstrem, tetapi jika terjadi suhu beku yang parah, tanaman dapat mengalami kerusakan. Pertimbangkan untuk melindungi tanaman dengan penutup atau membawanya ke dalam ruangan jika suhu terlalu rendah.", 
+      "<b>Pengendalian Hama dan Penyakit </b><br>  Periksa tanaman secara teratur untuk tanda-tanda serangan hama atau penyakit. Jika ada masalah, gunakan metode pengendalian organik atau obat yang direkomendasikan untuk mengatasinya."]
+  },
+  {
+    "slug": "zamiakulkas",
+    "mainImage": "/images/zamiakulkas.webp",
+    "title": "Zamia Kulkas",
+    "benefits": [
+      "<b>Estetika Lanskap </b><br>  Zamia kulkas digunakan secara luas sebagai tanaman hias dalam penanaman lanskap karena daunnya yang indah dan bentuknya yang menarik. Tanaman ini dapat memberikan sentuhan hijau yang segar dan estetika yang menarik dalam taman atau pekarangan.", 
+      "<b>Udara Bersih </b><br>  Seperti tanaman hijau lainnya, zamia kulkas membantu memurnikan udara dengan menyerap karbon dioksida dan melepaskan oksigen. Ini membantu meningkatkan kualitas udara di sekitarnya dan menciptakan lingkungan yang lebih segar", 
+      "<b>Tanaman Penahan Tanah </b><br>  Akar zamia kulkas yang kuat membantu menjaga kestabilan tanah dan mencegah erosi. Tanaman ini bermanfaat dalam pelestarian tanah dan pemulihan lingkungan."],
+
+    "howToUse": [],
+
+    "howToTreat": [
+      "<b>Pencahayaan </b><br>  Zamia kulkas tumbuh baik dalam cahaya sedang hingga terang. Letakkan tanaman di tempat yang mendapatkan sinar matahari langsung atau cahaya yang tercerah di dalam ruangan.", 
+      "<b>Penyiraman </b><br>  Zamia kulkas tidak memerlukan penyiraman yang terlalu sering. Sirami tanaman secara menyeluruh saat tanah sudah kering, dan pastikan untuk tidak menyiramnya terlalu banyak agar tidak tergenang air yang dapat menyebabkan akar membusuk.", 
+      "<b>Tanah dan Drainase </b><br>  Gunakan campuran tanah pot yang baik dengan bahan organik seperti serbuk gergaji atau cocopeat untuk meningkatkan drainase. Pastikan pot memiliki lubang drainase yang baik agar air dapat mengalir dengan baik.", 
+      "<b>Suhu </b><br>  Zamia kulkas tumbuh dengan baik pada suhu yang hangat, sekitar 18-24°C. Hindari suhu yang terlalu dingin atau terlalu panas yang dapat merusak tanaman.", 
+      "<b>Pemupukan </b><br>  Berikan pupuk untuk tanaman hias dengan dosis yang direkomendasikan. Pemupukan biasanya dilakukan setiap 2-3 bulan selama musim tumbuh (musim semi dan musim panas). Pastikan untuk mengikuti petunjuk pada kemasan pupuk untuk dosis yang tepat."]
+  },
+  {
+    "slug": "tandukrusa",
+    "mainImage": "/images/tandukrusa.webp",
+    "title": "Paku Tanduk Rusa",
+    "benefits": [
+      "<b>Estetika dan Hiasan </b><br>  Tanaman paku tanduk rusa sering digunakan sebagai tanaman hias dalam taman, ruangan, atau sebagai tanaman gantung. Daun-daunnya yang menarik memberikan sentuhan estetika dan keindahan alami pada lingkungan.",
+      "<b>Menyaring Udara </b><br>  Seperti tanaman hijau lainnya, tanaman paku tanduk rusa membantu menyaring udara dengan menyerap karbon dioksida dan melepaskan oksigen. Ini membantu meningkatkan kualitas udara di sekitarnya.",
+      "<b>Lingkungan Hidup Bagi Hewan </b><br>  Tanaman paku tanduk rusa menyediakan tempat persembunyian dan habitat bagi beberapa jenis serangga, kupu-kupu, dan burung kecil. Ini berkontribusi pada keanekaragaman hayati di sekitar tanaman tersebut."],
+
+    "howToUse": [],
+
+    "howToTreat": [
+      "<b>Penyinaran </b><br>  Paku tanduk rusa lebih menyukai cahaya yang terang, tetapi tidak langsung. Tempatkan tanaman di tempat yang mendapatkan sinar matahari pagi atau sore, atau tempat dengan cahaya yang tercerah namun tidak langsung di dalam ruangan.",
+      "<b>Kelembaban </b><br>  Tanaman paku tanduk rusa membutuhkan kelembaban udara yang tinggi. Pastikan untuk menyemprotkan air ke daun-daunnya secara teratur, terutama saat udara kering atau dalam musim panas. Anda juga bisa meletakkan wadah berisi air di dekat tanaman untuk meningkatkan kelembaban sekitar.",
+      "<b>Penyiraman </b><br>  Paku tanduk rusa tidak menyukai kelembaban yang berlebihan atau tanah yang terlalu basah. Biarkan tanah sedikit kering sebelum melakukan penyiraman kembali. Jangan biarkan akar terendam dalam air yang berlebihan, karena dapat menyebabkan akar membusuk.",
+      "<b>Media Tanam </b><br>  Paku tanduk rusa biasanya tumbuh di media yang kaya akan bahan organik seperti serbuk gergaji, serat kelapa, atau campuran tanah dengan kompos. Pastikan media tanam memiliki drainase yang baik untuk menghindari genangan air.",
+      "<b>Pemupukan </b><br>  Berikan pupuk dengan dosis yang lemah dan frekuensi yang jarang. Pemupukan sebulan sekali atau setiap dua bulan dengan pupuk cair yang khusus untuk tanaman epifit dapat memberikan nutrisi yang cukup bagi tanaman.",
+      "<b>Pemangkasan </b><br>  Jika ada daun atau frond yang mati atau rusak, potonglah dengan hati-hati menggunakan alat pemangkasan yang steril. Ini akan membantu menjaga kebersihan dan tampilan tanaman.",
+      "<b>Perlindungan dari Hama dan Penyakit </b><br>  Periksa tanaman secara rutin untuk memastikan tidak ada serangan hama atau gejala penyakit. Jika ditemukan, langkah-langkah pengendalian hama dan penyakit yang sesuai harus diambil."]
   },
   {
     "slug": "",
     "mainImage": "/images/.webp",
     "title": "",
     "benefits": [
-      "", 
-      "", 
-      "", 
       ""],
 
-    "howToUse": [
-      "", 
-      "", 
-      "", 
-      "", 
-      ""],
+    "howToUse": [],
 
     "howToTreat": [
-      "", 
-      "", 
-      "", 
-      "", 
-      ""]
-  },
-  {
-    "slug": "",
-    "mainImage": "/images/.webp",
-    "title": "",
-    "benefits": [
-      "", 
-      "", 
-      "", 
-      ""],
-
-    "howToUse": [
-      "", 
-      "", 
-      "", 
-      "", 
-      ""],
-
-    "howToTreat": [
-      "", 
-      "", 
-      "", 
-      "", 
-      ""]
-  },
-  {
-    "slug": "",
-    "mainImage": "/images/.webp",
-    "title": "",
-    "benefits": [
-      "", 
-      "", 
-      "", 
-      ""],
-
-    "howToUse": [
-      "", 
-      "", 
-      "", 
-      "", 
-      ""],
-
-    "howToTreat": [
-      "", 
-      "", 
-      "", 
-      "", 
       ""]
   }
 ]
