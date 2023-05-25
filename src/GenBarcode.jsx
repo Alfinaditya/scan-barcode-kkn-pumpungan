@@ -7,10 +7,10 @@ const GenBarcode = () => {
     <>
       <div style={{ display: 'flex', flexWrap: 'wrap', width: '100%' }}>
         {listDataTanaman.map((tanaman) => (
-          <div style={{ marginRight: 40 }} key={crypto.randomUUID()}>
-            <h1 style={{ textAlign: 'center', width: 250 }}>{tanaman.title}</h1>
+          <div style={{ marginRight: 50 }} key={crypto.randomUUID()}>
+            <h1 style={{ textAlign: 'center', width: 600 }}>{tanaman.title}</h1>
             <QRCode
-              size={230}
+              size={600}
               value={`${window.location.host}/${tanaman.slug}`}
             />
           </div>
