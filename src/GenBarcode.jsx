@@ -8,9 +8,9 @@ const GenBarcode = () => {
       <div style={{ display: 'flex', flexWrap: 'wrap', width: '100%' }}>
         {listDataTanaman.map((tanaman) => (
           <div style={{ marginRight: 50 }} key={crypto.randomUUID()}>
-            <h1 style={{ textAlign: 'center', width: 300 }}>{tanaman.title}</h1>
+            <h1 style={{ textAlign: 'center', width: 270 }}>{tanaman.title}</h1>
             <QRCode
-              size={300}
+              size={270}
               value={`${window.location.host}/${tanaman.slug}`}
             />
           </div>
