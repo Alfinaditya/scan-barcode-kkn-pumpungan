@@ -11,7 +11,7 @@ const GenBarcode = () => {
             <h1 style={{ textAlign: 'center', width: 250 }}>{tanaman.title}</h1>
             <QRCode
               size={230}
-              value={`${window.location.host}/${tanaman.slug}`}
+              value={`${window.location.host}/tanaman/${tanaman.slug}`}
             />
           </div>
         ))}
