@@ -14,8 +14,9 @@ const Tanaman = () => {
       <img
         style={{ margin: 'auto', display: 'flex' }}
         src={tanaman.mainImage}
-        width={500}
-        height={300}
+        className='image-thumbnail'
+        // width={500}
+        // height={300}
       />
       {tanaman.meaning.length > 0 && (
         <div style={{ marginBottom: 25, marginTop: 25  }}>
@@ -36,10 +37,10 @@ const Tanaman = () => {
       )}
       {tanaman.benefits.length > 0 && (
         <div style={{ marginBottom: 25, marginTop: 25 }}>
-          <h1>Manfaat :</h1>
+          <h1 style={{marginBottom:40 }}>Manfaat :</h1>
           {tanaman.benefits.map((benefit, i) => (
             <div key={crypto.randomUUID()}>
-              <div style={{ display: 'flex' }}>
+              <div style={{ display: 'flex' ,marginBottom:40 }}>
                 {i + 1}.
                 <div
                   dangerouslySetInnerHTML={{
@@ -53,10 +54,10 @@ const Tanaman = () => {
       )}
       {tanaman.howToUse.length > 0 && (
         <div style={{ marginBottom: 25, marginTop: 25 }}>
-          <h1>Cara Mengolah :</h1>
+          <h1 style={{ marginBottom:40 }}>Cara Mengolah :</h1>
           {tanaman.howToUse.map((howToUse, i) => (
             <div key={crypto.randomUUID()}>
-              <div style={{ display: 'flex' }}>
+              <div style={{ display: 'flex',marginBottom:40  }}>
                 {i + 1}.
                 <div
                   dangerouslySetInnerHTML={{
@@ -70,10 +71,10 @@ const Tanaman = () => {
       )}
       {tanaman.howToTreat.length > 0 && (
         <div style={{ marginBottom: 25, marginTop: 25 }}>
-          <h1>Cara Merawat :</h1>
+          <h1 style={{ marginBottom:40 }}>Cara Merawat :</h1>
           {tanaman.howToTreat.map((howToTreat, i) => (
             <div key={crypto.randomUUID()}>
-              <div style={{ display: 'flex' }}>
+              <div style={{ display: 'flex',marginBottom:40 }}>
                 {i + 1}.
                 <div
                   dangerouslySetInnerHTML={{

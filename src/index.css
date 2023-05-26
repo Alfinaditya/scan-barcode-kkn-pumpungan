@@ -3,7 +3,26 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 html {
   font-family: 'Poppins';
   color: #0f0f0f;
+}
+
+.image-thumbnail{
+  width:500px;
+    object-fit: cover;
+  height:300px;
+}
+
+@media only screen and (max-width: 625px) {
+  .image-thumbnail{
+    width:100%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .image-thumbnail{
+    height: 200px;
+  }
 }
