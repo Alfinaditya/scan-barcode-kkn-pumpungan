@@ -17,6 +17,23 @@ const Tanaman = () => {
         width={500}
         height={300}
       />
+      {tanaman.meaning.length > 0 && (
+        <div style={{ marginBottom: 25, marginTop: 25  }}>
+          <h1>Pengertian :</h1>
+          {tanaman.meaning.map((meaning, i) => (
+            <div key={crypto.randomUUID()}>
+              <div style={{ display: 'flex' }}>
+                {i + 1}.
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: meaning,
+                  }}
+                ></div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
       {tanaman.benefits.length > 0 && (
         <div style={{ marginBottom: 25, marginTop: 25 }}>
           <h1>Manfaat :</h1>
@@ -35,7 +52,7 @@ const Tanaman = () => {
         </div>
       )}
       {tanaman.howToUse.length > 0 && (
-        <div style={{ marginBottom: 25 }}>
+        <div style={{ marginBottom: 25, marginTop: 25 }}>
           <h1>Cara Mengolah :</h1>
           {tanaman.howToUse.map((howToUse, i) => (
             <div key={crypto.randomUUID()}>
@@ -52,7 +69,7 @@ const Tanaman = () => {
         </div>
       )}
       {tanaman.howToTreat.length > 0 && (
-        <div style={{ marginBottom: 25 }}>
+        <div style={{ marginBottom: 25, marginTop: 25 }}>
           <h1>Cara Merawat :</h1>
           {tanaman.howToTreat.map((howToTreat, i) => (
             <div key={crypto.randomUUID()}>
