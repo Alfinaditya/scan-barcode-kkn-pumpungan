@@ -20,10 +20,10 @@ const Tanaman = () => {
       />
       {tanaman.meaning.length > 0 && (
         <div style={{ marginBottom: 25, marginTop: 25  }}>
-          <h1>Pengertian :</h1>
+          <h1 style={{marginBottom:40 }}> Pengertian :</h1>
           {tanaman.meaning.map((meaning, i) => (
             <div key={crypto.randomUUID()}>
-              <div style={{ display: 'flex' }}>
+              <div style={{ display: 'flex',marginBottom:40 }}>
                 {i + 1}.
                 <div
                   dangerouslySetInnerHTML={{
