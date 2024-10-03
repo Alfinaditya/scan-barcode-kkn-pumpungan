@@ -28,7 +28,7 @@ const Tanaman = () => {
 						}}
 						src={tanaman.mainImage}
 						width={'100%'}
-						height={500}
+						height={300}
 					/>
 					{/* {tanaman.meaning.length > 0 && (
 						<div style={{ marginBottom: 25, marginTop: 25 }}>
